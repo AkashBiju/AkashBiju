@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkashBiju
 - 👀 I’m interested in Python programming and web developing 
 - 🌱 I’m currently learning html and css for web development 
-- 💞️ I’m looking to collaborate on ...
+- I'm looking forward on learning javascript as well
 - 📫 Reach me on my email - akashbijupr@gmail.com
 
 <!---
